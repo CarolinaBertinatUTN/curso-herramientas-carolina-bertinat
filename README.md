@@ -1,4 +1,3 @@
-# curso-herramientas-carolina-bertinat
 # 📊 Proyecto de Análisis del Mercado Laboral en IA
 
 ## 👨‍💻 Autor  
