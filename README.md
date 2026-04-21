@@ -32,7 +32,7 @@ Se desarrolló un dashboard interactivo en Power BI que permite visualizar los p
 
 ## 🔗 Enlaces  
 - Dataset: https://github.com/CarolinaBertinatUTN/curso-herramientas-carolina-bertinat/blob/main/data/raw/AI%20Job%20Market%20Dataset.csv
-- Notebook: https://colab.research.google.com/drive/1WdrWnauqlutEWLTWZ7xHkQa4ycQuRLs4?usp=sharing
+- Notebook: https://colab.research.google.com/drive/1WdrWnauqlutEWLTWZ7xHkQa4ycQuRLs4?usp=sharing](https://github.com/CarolinaBertinatUTN/curso-herramientas-carolina-bertinat/blob/main/notebooks/TP_FINAL_CAROLINA_BERTINAT%20(2).ipynb
 - Dashboard: https://github.com/CarolinaBertinatUTN/curso-herramientas-carolina-bertinat/blob/main/dashboard/dashboard.pbix/TP%20FINAL%20CAROLINA%20BERTINAT.pbix
 
 ## 📚 Fuentes  
@@ -40,3 +40,9 @@ Se desarrolló un dashboard interactivo en Power BI que permite visualizar los p
 - https://seaborn.pydata.org/  
 - https://matplotlib.org/
 - https://mavenanalytics.io/
+
+  ## 📊 Conclusiones
+
+- Los salarios aumentan significativamente con el nivel de experiencia.
+- Los roles como Data Scientist y AI Engineer presentan los salarios más altos.
+- La demanda laboral se concentra en ciertos países con mayor desarrollo tecnológico.
